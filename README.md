@@ -70,7 +70,7 @@ The system operates via two structural phases:
 ### Installation
 ```bash
 # Clone the repository locally
-git clone [https://github.com/yourusername/Image-Steganography-LSB.git](https://github.com/yourusername/Image-Steganography-LSB.git)
+git clone [https://github.com/Mr-Yashwanth/Image-Steganography-LSB.git](https://github.com/Mr-Yashwanth/Image-Steganography-LSB.git)
 
 # Enter the repository directory
 cd Image-Steganography-LSB
